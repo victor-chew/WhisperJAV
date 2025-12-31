@@ -30,7 +30,7 @@ PROVIDER_CONFIGS = {
         'model': 'gpt-4o-mini',
         'env_var': 'OPENAI_API_KEY'
     },
-        'glm': {
+    'glm': {
         'pysubtrans_name': 'OpenAI',
         'model': 'glm-4.7',
         'env_var': 'GLM_API_KEY'
