@@ -34,7 +34,7 @@ PROVIDER_CONFIGS = {
         'pysubtrans_name': 'OpenAI',
         'model': 'glm-4.7',
         'env_var': 'GLM_API_KEY',
-        'api_base': 'https://api.z.ai/api/coding/paas/v4'
+        'api_base': 'https://api.z.ai/api/coding/paas/v4/chat/completions'
     }
 }
 
