@@ -31,10 +31,10 @@ PROVIDER_CONFIGS = {
         'env_var': 'OPENAI_API_KEY'
     },
     'glm': {
-        'pysubtrans_name': 'DeepSeek',
+        'pysubtrans_name': 'OpenAI',
         'model': 'glm-4.7',
         'env_var': 'GLM_API_KEY',
-        'api_base': 'https://api.z.ai/api/coding/paas/v4/chat/completions'
+        'api_base': 'https://api.z.ai/api/coding/paas/v4'
     }
 }
 
