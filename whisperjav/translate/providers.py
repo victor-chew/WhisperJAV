@@ -33,7 +33,7 @@ PROVIDER_CONFIGS = {
     'glm': {
         'pysubtrans_name': 'OpenAI',
         'model': 'glm-4.7',
-        'env_var': 'GLM_API_KEY'
+        'env_var': 'GLM_API_KEY',
         'api_base': 'https://api.z.ai/api/coding/paas/v4'
     }
 }
